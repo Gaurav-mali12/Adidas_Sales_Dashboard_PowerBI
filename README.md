@@ -6,7 +6,7 @@ An interactive **Power BI Sales Dashboard** built using the Adidas US Sales data
 
 ## 📸 Dashboard Preview
 
-![Adidas Sales Dashboard](Images/Dashboard.png)
+![Adidas Sales Dashboard](Adidas_sales_dashboard_image.png)
 
 ---
 
